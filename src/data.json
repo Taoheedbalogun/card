@@ -1,0 +1,30 @@
+[
+    {
+        "id":"1",
+        "quote":"make hay while the sun shines",
+        "name":"Wiskid",
+        "time": "Date.now()",
+        "avatar":"./Image/wiskid.jpg"
+    },
+    {
+        "id":"2",
+        "quote":"You do not find the happy life, you make it.",
+        "time":"Date.now()",
+        "name":"Taobal",
+        "avatar":"./Image/taoheed.jpg"
+    },
+    {
+        "id":"3",
+        "quote":"If you cant change it, change your attitude.",
+        "time":"Date.now()",
+        "name":"Dumebi",
+        "avatar":"./image/dumebi.jpg"
+    },
+    {
+        "id":"4",
+        "quote":"Believe you can and you are halfway there.",
+        "time":"Date.now()",
+        "name":"Dotman",
+        "avatar":"./image/dotman.png"
+    }
+]
